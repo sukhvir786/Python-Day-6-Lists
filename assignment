@@ -1,0 +1,12 @@
+1. Create a List of 10 numbers
+   Pass the List to a Function
+   and calculate sum of the numbers
+   and average
+   
+2. WAP to pass a List to a function
+   and then reverse its elements
+   
+   what will happen if we use diff data types
+
+3. WAP to print odd numbers by entering start and end value
+   from user using functions and Lists
